@@ -1,7 +1,5 @@
-<!-- Cyber/Neon GitHub README for Adrian Kwaśnik -->
-
 <div align="center">
-  <vid src="https://i.imgur.com/6gYh5hO.png](https://i.imgur.com/hhNzRlt.mp4" width="900" alt="Cyber Neon Banner"/>
+  <img src="./banner.gif" width="900" />
 </div>
 
 <h1 align="center">⚡ Hi, I'm <span style="color:#0ff;">Adrian Kwaśnik</span> ⚡</h1>
@@ -50,14 +48,6 @@ Right now I'm building a full‑stack AI‑powered medical platform hosted at **
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akwasnik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
