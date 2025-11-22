@@ -45,7 +45,7 @@ Right now I'm building a full‑stack AI‑powered medical platform hosted at **
 
 ---
 
-### 📈 GitHub Stats (Cyber Theme)
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akwasnik&theme=neon-dark&hide_border=false&border_radius=5" height="150"/>
