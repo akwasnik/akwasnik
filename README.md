@@ -1,7 +1,7 @@
 <!-- Cyber/Neon GitHub README for Adrian Kwaśnik -->
 
 <div align="center">
-  <img src="https://i.imgur.com/6gYh5hO.png" width="900" alt="Cyber Neon Banner"/>
+  <vid src="https://i.imgur.com/6gYh5hO.png](https://i.imgur.com/hhNzRlt.mp4" width="900" alt="Cyber Neon Banner"/>
 </div>
 
 <h1 align="center">⚡ Hi, I'm <span style="color:#0ff;">Adrian Kwaśnik</span> ⚡</h1>
