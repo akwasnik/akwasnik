@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">⚡ Hi, I'm <span style="color:#0ff;">Adrian Kwaśnik</span> ⚡</h1>
-<h3 align="center">Full‑Stack Developer • Cyber/Neon Enthusiast • Fast Learner</h3>
+<h3 align="center">Software Developer • Fast Learner</h3>
 
 ---
 
@@ -20,11 +20,10 @@ Right now I'm building a full‑stack AI‑powered medical platform hosted at **
 ---
 
 ### 🔥 Tech Focus
-- Full‑Stack Web Development  
-- API & Backend Engineering  
+- Web Development  
+- API Engineering  
 - Microservices • Distributed Systems  
-- Docker • DevOps Fundamentals  
-- React / Next.js Frontend Engineering  
+- Next.js Frontend Engineering  
 
 ---
 
@@ -33,12 +32,6 @@ Right now I'm building a full‑stack AI‑powered medical platform hosted at **
 <div align="center">
   <a href="https://linkedin.com/in/adriankwasnik">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="28"/>
   </a>
 </div>
 
