@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [fullstack project](comijest.com.pl)
+- 🔭 I’m currently working on [fullstack project](www.comijest.com.pl)
 
 - 🌱 I’m currently learning **Express,Spring**
 
