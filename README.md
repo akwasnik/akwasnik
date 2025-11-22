@@ -2,7 +2,7 @@
   <img src="https://via.placeholder.com/900x200.png?text=Hey!+I%27m+45x45" alt="Profile banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm 45x45</h1>
+<h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate upcoming full‑stack developer from Poland</h3>
 
 ---
