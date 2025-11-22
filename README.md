@@ -12,7 +12,7 @@
 I'm a passionate software developer from Poland, currently studying **Practical Computer Science** at the University of Gdańsk.  
 I specialize in **web development**, mainly frontend, but I'm also expanding into backend development, distributed systems, and containerized architectures.
 
-I enjoy creating clean, scalable applications and learning new technologies at high speed.  
+I enjoy creating clean, scalable applications and learning new technologies. 
 Right now I'm building a full‑stack AI‑powered medical platform hosted at **https://comijest.com.pl** — the main foundation of my bachelor’s thesis.
 
 ---
