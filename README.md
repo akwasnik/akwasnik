@@ -56,5 +56,3 @@ Right now I'm building a full‑stack AI‑powered medical platform hosted at **
 **LinkedIn:** https://linkedin.com/in/adriankwasnik  
 
 ---
-
-> 🔥 *"Stay curious. Build boldly. Improve daily."*
